@@ -1,0 +1,55 @@
+html{
+	font-family: 'Helvetica neve', sans-serif;
+}
+.prof-box{
+	width: 400px;
+	height: 450px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	margin: auto;
+	margin-top: 140px;
+	text-align: center;
+}
+
+.prof-pic{
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+h1{
+	font-weight: 100;
+	letter-spacing: 6;
+	font-size: 40px;
+}
+
+p{
+	font-weight: 200;
+	letter-spacing: 1;
+}
+
+.social-icons{
+	font-size: 40px;
+
+}
+
+.social-icons a{
+	color: white;
+}
+
+.line-break{
+	width: 400px;
+	border-top: 1px solid white;
+}
+
+hr{
+	display: block;
+	margin: 0 auto;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
